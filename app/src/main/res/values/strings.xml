@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Model2</string>
+    <string name="logIn_title">The Course App</string>
+    <string name="username">UserName</string>
+    <string name="password">password</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="register_title">Register Form</string>
+    <string name="teacher">teacher</string>
+    <string name="student">student</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+</resources>

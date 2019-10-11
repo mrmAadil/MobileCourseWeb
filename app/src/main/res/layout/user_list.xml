@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textSubject_Student"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="21dp"
+        android:layout_toEndOf="@+id/textID_student"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textMessage_Student"
+        android:layout_width="365dp"
+        android:layout_height="77dp"
+        android:layout_below="@+id/textSubject_Student"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="7dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textID_student"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="21dp"
+        android:text="TextView" />
+</RelativeLayout>
